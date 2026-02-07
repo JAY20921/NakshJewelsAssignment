@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Diamond Necklace",
+    "price": 45999,
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400&h=400&fit=crop",
+    "description": "Elegant diamond necklace with 18k gold chain",
+    "category": "necklace",
+    "stock": 5
+  },
+  {
+    "id": 2,
+    "name": "Gold Earrings",
+    "price": 12999,
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400&h=400&fit=crop",
+    "description": "Traditional gold earrings with intricate design",
+    "category": "earrings",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "name": "Ruby Ring",
+    "price": 28999,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=400&fit=crop",
+    "description": "Stunning ruby ring set in platinum",
+    "category": "ring",
+    "stock": 7
+  },
+  {
+    "id": 4,
+    "name": "Pearl Bracelet",
+    "price": 8999,
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=400&h=400&fit=crop",
+    "description": "Elegant pearl bracelet with silver clasp",
+    "category": "bracelet",
+    "stock": 15
+  },
+  {
+    "id": 5,
+    "name": "Emerald Pendant",
+    "price": 35999,
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=400&fit=crop",
+    "description": "Exquisite emerald pendant with gold chain",
+    "category": "pendant",
+    "stock": 4
+  },
+  {
+    "id": 6,
+    "name": "Silver Anklet",
+    "price": 5999,
+    "image": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?w=400&h=400&fit=crop",
+    "description": "Traditional silver anklet with bells",
+    "category": "anklet",
+    "stock": 20
+  },
+  {
+    "id": 7,
+    "name": "Sapphire Brooch",
+    "price": 22999,
+    "image": "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=400&h=400&fit=crop",
+    "description": "Vintage sapphire brooch with diamond accents",
+    "category": "brooch",
+    "stock": 3
+  },
+  {
+    "id": 8,
+    "name": "Gold Bangles Set",
+    "price": 67999,
+    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=400&h=400&fit=crop",
+    "description": "Set of 4 traditional gold bangles",
+    "category": "bangles",
+    "stock": 6
+  }
+]
